@@ -40,7 +40,9 @@ Experienced in developing and validating **numerical models** using MATLAB, with
 
 **Example Output:**
 
-![Deformed Truss](images/stressPlot.png)
+![Stress Plot](images/stressPlot.png)
+![Area Study](images/areaStudyPlot.png)
+![Load Study](images/loadStudyPlot.png)
 
 ---
 
@@ -53,7 +55,7 @@ Experienced in developing and validating **numerical models** using MATLAB, with
 
 **Example Output:**
 
-![Beam Deflection](images/deflection_plot(1).png)
+![Deflection Plot](images/deflection_plot.png)
 
 ---
 
