@@ -41,8 +41,6 @@ Experienced in developing and validating **numerical models** using MATLAB, with
 **Example Output:**
 
 ![Stress Plot](images/stressPlot.png)
-![Area Study](images/areaStudyPlot.png)
-![Load Study](images/loadStudyPlot.png)
 
 ---
 
